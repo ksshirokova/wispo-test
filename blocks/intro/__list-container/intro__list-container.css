@@ -1,0 +1,7 @@
+.intro__list-container{
+  list-style-type: none;
+  display: flex;
+  max-width: 910px;
+  flex-wrap: wrap;
+  padding: 0;
+}

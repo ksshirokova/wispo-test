@@ -1,0 +1,6 @@
+.intro{
+  display: flex;
+  max-width: 1920px;
+  padding: 0 0 0 200px;
+  border-bottom: 1px solid #E5E5E5;
+}

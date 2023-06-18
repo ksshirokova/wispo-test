@@ -14,4 +14,13 @@
 @import '../blocks/header/__phone-number/header__phone-number.css';
 @import '../blocks/header/__schedule/header__schedule.css';
 @import '../blocks/header/__icons/header__icons.css';
+@import '../blocks/intro/intro.css';
+@import '../blocks/intro/__heading/intro__heading.css';
+@import '../blocks/intro/__description/intro__description.css';
+@import '../blocks/intro/__background/intro__background.css';
+@import '../blocks/intro/__button/intro__button.css';
+@import '../blocks/intro/__button-text/intro__button-text.css';
+@import '../blocks/intro/__list-container/intro__list-container.css';
+@import '../blocks/intro/__list-element/intro__list-element.css';
+@import '../blocks/intro/__list-text/intro__list-text.css';
 @import '../blocks/root/root.css';
