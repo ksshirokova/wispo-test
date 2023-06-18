@@ -1,0 +1,7 @@
+.header__list-element{
+  color: black;
+  text-decoration: none;
+  margin-right: 20px;
+  padding-bottom: 3px;
+  border-bottom: 1px solid #E5E5E5;
+}

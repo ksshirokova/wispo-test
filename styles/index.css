@@ -1,0 +1,17 @@
+@import '../vendor/normalize.css';
+@import '../vendor/fonts.css';
+@import '../blocks/header/header.css';
+@import '../blocks/header/__container/header__container.css';
+@import '../blocks/header/__list/header__list.css';
+@import '../blocks/header/__list-element/header__list-element.css';
+@import '../blocks/header/__feedback/header__fedback.css';
+@import '../blocks/header/__logo/header__logo.css';
+@import '../blocks/header/__list-star/header__list-star.css';
+@import '../blocks/header/__first-section/header__first-section.css';
+@import '../blocks/header/__nav-panel/header__nav-panel.css';
+@import '../blocks/header/__panel-element/header__panel-element.css';
+@import '../blocks/header/__arrow-icon/header__arrow-icon.css';
+@import '../blocks/header/__phone-number/header__phone-number.css';
+@import '../blocks/header/__schedule/header__schedule.css';
+@import '../blocks/header/__icons/header__icons.css';
+@import '../blocks/root/root.css';
