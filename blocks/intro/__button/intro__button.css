@@ -1,4 +1,11 @@
 .intro__button{
   margin-left: -10px;
   position: relative;
+  width: 432px;
+  height: 99px;
+  
+}
+.intro__button img{
+  width: 100%;
+  height: 100%;
 }

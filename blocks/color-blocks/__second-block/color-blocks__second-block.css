@@ -1,0 +1,38 @@
+.color-blocks__second-block {
+
+  color: #9A9A9A;
+  padding: 40px;
+  border: 1px solid #9A9A9A;
+  border-radius: 20px;
+  max-width: 528px;
+  height: 836px;
+  display: flex;
+  align-items: center;
+  box-sizing: border-box;
+  font-weight: 500;
+  font-size: 26px;
+  line-height: 36.4px;
+  margin: 0 0 0 76px;
+
+}
+@media (max-width:1399px) {
+  .color-blocks__second-block{
+    margin: 0 0 20px ;
+    max-width: 796px;
+    height: 400px;
+      
+
+  }
+}
+
+@media (max-width:500px) {
+  .color-blocks__second-block{
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 140%;
+    padding: 20px;
+    max-width: 305px;
+
+  }
+}
+

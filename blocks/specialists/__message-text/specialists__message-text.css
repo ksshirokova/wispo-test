@@ -1,0 +1,12 @@
+.specialists__message-text {
+  position: absolute;
+  top: 0;
+  left: 0;
+  max-width: 264px;
+  margin: 24px 0 24px 16px;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 120%;
+  
+
+}

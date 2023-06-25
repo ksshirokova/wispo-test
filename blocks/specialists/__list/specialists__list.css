@@ -1,0 +1,18 @@
+.specialists__list{
+  list-style-type: none;
+  display: flex;
+  margin: 0 auto;
+  padding: 0;
+  justify-content: center;
+  position: relative;
+  max-width: 1520px;
+  justify-content: flex-start;
+}
+
+@media (max-width:1366px) {
+  .specialists__list{
+    justify-content: flex-start;
+    max-width: 1077px;
+  }
+}
+

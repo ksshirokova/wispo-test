@@ -1,0 +1,27 @@
+.color-blocks__first-block{
+  color: #FFA300;
+  padding: 40px;
+  border: 1px solid #FFA300;
+  border-radius: 20px;
+  max-width: 796px;
+  height: 512px;
+  display: flex;
+  align-items: center;
+  box-sizing: border-box;
+  font-weight: 500;
+  font-size: 26px;
+  line-height: 36.4px;
+  margin: 0 0 20px ;
+}
+@media (max-width:500px) {
+  .color-blocks__first-block {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 140%;
+    padding: 20px;
+    max-width: 305px;
+    height: 380px;
+
+  }
+}
+

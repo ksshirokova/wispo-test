@@ -1,0 +1,10 @@
+.specialists__header{
+  display: flex;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 48px;
+  max-width: 1263px;
+  text-align: center;
+  margin: 120px auto 0;
+
+}

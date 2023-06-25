@@ -1,0 +1,8 @@
+.services__second-image{
+  background-image: url(../../../images/services/center-2.jpg);
+  width: 745px;
+  height: 478px;
+  background-repeat: no-repeat;
+  overflow: hidden;
+  margin: 0 30px 0 0;
+}

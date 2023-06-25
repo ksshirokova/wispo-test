@@ -1,0 +1,11 @@
+.specialists__right-button{
+  position: absolute;
+  right: -95px;
+  top: 208px;
+}
+
+@media (max-width:1366px) {
+  .specialists__right-button{
+    justify-content: flex-start;
+  }
+}

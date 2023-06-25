@@ -1,0 +1,16 @@
+.color-blocks{
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 1400px;
+  margin: 0 auto;
+  
+}
+
+@media (max-width:1399px) {
+  .color-blocks {
+    justify-content: center;
+      
+  }
+}
+
+

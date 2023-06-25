@@ -1,0 +1,7 @@
+.services__third-image{
+  background-image: url(../../../images/services/center-3.jpg);
+  width: 745px;
+  height: 478px;
+  background-repeat: no-repeat;
+  overflow: hidden;
+}

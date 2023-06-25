@@ -1,0 +1,8 @@
+.services__first-image{
+  background-image: url(../../../images/services/center-1.jpg);
+  max-width: 745px;
+  max-height: 478px;
+  background-repeat: no-repeat;
+  overflow: hidden;
+  
+}

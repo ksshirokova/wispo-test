@@ -1,0 +1,42 @@
+.color-blocks__third-block {
+  color: #000000;
+  padding: 40px;
+  border: 1px solid #000000;
+  border-radius: 20px;
+  max-width: 796px;
+  height: 260px;
+  box-sizing: border-box;
+  font-weight: 500;
+  font-size: 26px;
+  line-height: 36.4px;
+  -moz-margin: -226px 0 0;
+  -webkit-margin: -226px 0 0;
+  display: flex;
+  align-items: center;
+  margin: -260px 0 0;
+  
+
+
+
+}
+
+
+@media (max-width:1399px) {
+  .color-blocks__third-block {
+    margin: 0;
+    
+
+  }
+}
+
+@media (max-width:500px) {
+  .color-blocks__third-block {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 140%;
+    padding: 20px;
+    max-width: 305px;
+    max-height: 180px;
+
+  }
+}

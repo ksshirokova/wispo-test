@@ -1,0 +1,11 @@
+.specialists__done-works-text{
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19.2px;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  margin: 0 0 0 10px;
+  
+}

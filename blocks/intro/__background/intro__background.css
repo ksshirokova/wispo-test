@@ -1,3 +1,7 @@
 .intro__background{
   margin-left: auto;
+  background-image: url(../../../images/intro/main.png);
+  width: 976px;
+  height: 835px;
+  
 }
