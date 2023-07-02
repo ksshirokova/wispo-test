@@ -3,6 +3,23 @@
   text-decoration: none;
   display: flex;
   align-items: center;
+  margin-right: 30px;
   
+
+  
+  
+}
+
+@media (max-width:1366px) {
+  .intro__list-element:nth-child(2n) {
+    margin: 0;
+  }
+  
+}
+
+@media (max-width:1024px) {
+  .intro__list-element{
+    max-width: 240px;
+  }
   
 }

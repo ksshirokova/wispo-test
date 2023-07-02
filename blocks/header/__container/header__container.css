@@ -4,3 +4,17 @@
   padding: 27.86px 200px 21px 200px;
   box-sizing: border-box;
 }
+
+@media (max-width:1366px) {
+  .header__container{
+    padding: 10px 143px;
+
+
+  }
+}
+@media (max-width:1024px) {
+  .header__container {
+    padding: 15px 87px
+
+  }
+}

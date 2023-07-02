@@ -1,8 +1,14 @@
 .services__first-image{
   background-image: url(../../../images/services/center-1.jpg);
-  max-width: 745px;
-  max-height: 478px;
+  width: 745px;
+  height: 478px;
   background-repeat: no-repeat;
   overflow: hidden;
   
+}
+@media (max-width:1399px) {
+  .services__first-image {
+    height:537px;
+      
+  }
 }

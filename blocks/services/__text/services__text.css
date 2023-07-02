@@ -5,3 +5,15 @@
   margin: 0 0 32px;
 }
 
+@media (max-width:1399px) {
+  .services__text {
+    font-size: 18px;
+
+    
+    font-weight: 500;
+    line-height: 140%;
+    
+    width: 525px;
+
+  }
+}

@@ -5,10 +5,19 @@
   text-align: center;
   justify-content: center;
   align-items: center;
-  border-right: 1px solid #E5E5E5;
   height: 28px;
-  padding: 0 67.22px 0 0;
   
+
+
+}
+@media (max-width:1366px) {
+  .header__panel-element {
+    font-size: 14px;
+    font-weight: 500;
+    line-height: normal;
+
+  }
+
   
 }
 

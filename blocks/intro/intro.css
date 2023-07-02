@@ -5,3 +5,17 @@
   border-bottom: 1px solid #E5E5E5;
   margin: 0 auto;
 }
+
+@media (max-width:1366px) {
+  .intro {
+   padding: 0 0 0 143px;
+
+  }
+}
+
+@media (max-width:1024px) {
+  .intro {
+   padding: 0 0 0 87px;
+
+  }
+}

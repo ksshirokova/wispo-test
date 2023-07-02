@@ -4,3 +4,10 @@
   padding: 0;
   margin-left: 40px;
 }
+
+@media (max-width:1366px) {
+  .header__list {
+    display: none;
+
+  }
+}

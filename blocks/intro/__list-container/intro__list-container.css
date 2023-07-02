@@ -1,8 +1,15 @@
 .intro__list-container{
   list-style-type: none;
   display: flex;
-  max-width: 945px;
+  min-width: 816px;
   flex-wrap: wrap;
   padding: 0;
   margin: 30px 0 0;
+}
+
+@media (max-width:1024px) {
+  .intro__list-container {
+    min-width: 535px;
+  }
+
 }

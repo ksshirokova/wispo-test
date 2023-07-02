@@ -6,3 +6,12 @@
   color: black;
   text-decoration: none;
 }
+
+@media (max-width:1300px) {
+  .header__phone-number {
+    font-size: 18px;
+    font-weight: 700;
+    line-height: normal;
+    
+  }
+}

@@ -4,3 +4,11 @@
   padding: 120px 0;
   
 }
+
+@media (max-width:1399px) {
+  .services {
+    padding: 120px 143px;
+    box-sizing: border-box;
+      
+  }
+}
